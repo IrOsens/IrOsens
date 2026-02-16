@@ -1,5 +1,8 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Indie+Game+Developer+from+Indonesia+🇮🇩;Unity+%7C+Roblox+%7C+Godot+Explorer;Code+Today,+Debug+Tomorrow" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey!+I'm+an+Indie+Unity+Dev;Mostly+2D+games+and+random+scripts;Still+learning%2C+still+breaking+things" alt="Typing SVG" />
+
 </div>
 
 <br/>
