@@ -59,9 +59,9 @@
 ### 🏆 Featured Quests
 | Project | Role | Stack |
 | :--- | :--- | :--- |
-| **[Nama Game Unity]** | 🕹️ Developer | `Unity` `C#` |
-| **[Project Roblox]** | 🧱 Scripter | `Roblox Studio` `Lua` |
-| **[Bot Discord/Telegram]** | 🤖 Bot Dev | `Python` |
+| **[xxxxxxx]** | 🕹️ Developer | `Unity` `C#` |
+| **[xxxxxxxx]** | 🧱 Scripter | `Roblox Studio` `Lua` |
+| **[xxxxxxxm]** | 🤖 Bot Dev | `Python` |
 
 <br/>
 
